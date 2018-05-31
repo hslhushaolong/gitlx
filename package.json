@@ -1,0 +1,19 @@
+{
+  "name": "gitlx",
+  "version": "1.0.0",
+  "description": "练习git命令用的，盗版必究 速度速度速度十分的方便 v 是大部分 v成反比",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hslhushaolong/gitlx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hslhushaolong/gitlx/issues"
+  },
+  "homepage": "https://github.com/hslhushaolong/gitlx#readme"
+}
